@@ -1252,7 +1252,7 @@ class TitleManager{
 	 * */
 	restart(){
 		this.setSubtitleText('想发什么呢？让我帮你！');
-		document.title = 'NewBingGoGo:聊天啦啦啦啦';
+		document.title = '聊天啦啦啦啦';
 	}
 	/**
 	 * 正在创建聊天时
